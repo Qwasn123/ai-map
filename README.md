@@ -1,2 +1,5 @@
-# ai-map
-网站提供了基础的导航功能，支持多点导航，并通过 AI 技术规划旅游方案，旨在为用户提供便捷的导航体验和智能化的旅行规划。
+# Vue 3 + TypeScript + Vite
+
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
